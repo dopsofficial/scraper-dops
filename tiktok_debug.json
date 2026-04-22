@@ -1,0 +1,58 @@
+[
+  {
+    "input_url": "https://vt.tiktok.com/ZSHc9t5g9/",
+    "final_url": "https://www.tiktok.com/@mbakipe.99/video/7627278349278219527?_r=1&_t=ZS-95cOADVAkqt",
+    "source": "script_json_18",
+    "debug": {
+      "script_count": 62,
+      "matched_scripts": [
+        {
+          "index": 18,
+          "preview": "{\"__DEFAULT_SCOPE__\":{\"webapp.app-context\":{\"language\":\"en\",\"region\":\"ID\",\"appId\":1180,\"appType\":\"t\",\"wid\":\"7631430656883787271\",\"webIdCreatedTime\":\"1776830916\",\"odinId\":\"7631430530164704276\",\"nonce\":\"ezEDVT1KC7heryrIWeOqE\",\"botType\":\"others\",\"requestId\":\"10205858776830916795\",\"clusterRegion\":\"ALL_S"
+        }
+      ]
+    }
+  },
+  {
+    "input_url": "https://vt.tiktok.com/ZSHc9pmwq/",
+    "final_url": "https://www.tiktok.com/@mbakipe.99/video/7627386062008044808?_r=1&_t=ZS-95cODigG7CZ",
+    "source": "script_json_18",
+    "debug": {
+      "script_count": 66,
+      "matched_scripts": [
+        {
+          "index": 18,
+          "preview": "{\"__DEFAULT_SCOPE__\":{\"webapp.app-context\":{\"language\":\"en\",\"region\":\"ID\",\"appId\":1180,\"appType\":\"t\",\"wid\":\"7631430656883787271\",\"webIdCreatedTime\":\"1776830916\",\"odinId\":\"7631430530164704276\",\"nonce\":\"fyvADkGrPmbO65QoxdCH8\",\"botType\":\"others\",\"requestId\":\"17768309339969934374\",\"clusterRegion\":\"ALL_S"
+        }
+      ]
+    }
+  },
+  {
+    "input_url": "https://vt.tiktok.com/ZSHc9GYtH/",
+    "final_url": "https://www.tiktok.com/@mbakipe.99/video/7627741518094241031?_r=1&_t=ZS-95cOEi9I9as",
+    "source": "script_json_18",
+    "debug": {
+      "script_count": 66,
+      "matched_scripts": [
+        {
+          "index": 18,
+          "preview": "{\"__DEFAULT_SCOPE__\":{\"webapp.app-context\":{\"language\":\"en\",\"region\":\"ID\",\"appId\":1180,\"appType\":\"t\",\"wid\":\"7631430656883787271\",\"webIdCreatedTime\":\"1776830916\",\"odinId\":\"7631430530164704276\",\"nonce\":\"lknigmVBIfdAzVnGdjQx2\",\"botType\":\"others\",\"requestId\":\"17768309513239660505\",\"clusterRegion\":\"ALL_S"
+        }
+      ]
+    }
+  },
+  {
+    "input_url": "https://vt.tiktok.com/ZSHc9GQeW/",
+    "final_url": "https://www.tiktok.com/@mbakipe.99/video/7627880228160933128?_r=1&_t=ZS-95cOGBWfqK8",
+    "source": "script_json_18",
+    "debug": {
+      "script_count": 66,
+      "matched_scripts": [
+        {
+          "index": 18,
+          "preview": "{\"__DEFAULT_SCOPE__\":{\"webapp.app-context\":{\"language\":\"en\",\"region\":\"ID\",\"appId\":1180,\"appType\":\"t\",\"wid\":\"7631430656883787271\",\"webIdCreatedTime\":\"1776830916\",\"odinId\":\"7631430530164704276\",\"nonce\":\"PnQQk_CFjSsPKtRAB-uGX\",\"botType\":\"others\",\"requestId\":\"17768309685359194963\",\"clusterRegion\":\"ALL_S"
+        }
+      ]
+    }
+  }
+]
