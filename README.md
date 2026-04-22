@@ -4,7 +4,7 @@ Sebelum mulai, pastikan laptop sudah ter-install:
 
 - [Git](https://git-scm.com/downloads)
 - [Node.js LTS](https://nodejs.org/)  
-  Disarankan versi **18.x LTS** atau **20.x LTS**
+  Disarankan versi **18.x LTS**
 
 Cek apakah sudah ter-install:
 
